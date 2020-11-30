@@ -1,0 +1,19 @@
+{
+  "name": "@dylburger/pd",
+  "version": "0.0.1",
+  "description": "Pipedream shared functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylburger/pd.git"
+  },
+  "author": "Dylan Sather",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dylburger/pd/issues"
+  },
+  "homepage": "https://github.com/dylburger/pd#readme"
+}
